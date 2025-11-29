@@ -65,14 +65,6 @@ Parts built using **Vercel v0**:
 
 Custom code was added later to improve responsiveness, animations, and smooth scrolling.
 
----
-
-## 📸 Preview
-
-![SaaSify Hero](./public/banner.png)
-
----
-
 ## 🙌 Author
 **Sayan Kundu**  
 ## 📜 License
