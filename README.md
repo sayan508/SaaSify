@@ -1,41 +1,80 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 SaaSify — AI-Powered Landing Page
 
-## Getting Started
+SaaSify is a modern, responsive landing page built with **Next.js** and **Tailwind CSS**, designed to showcase a SaaS product that helps teams build faster using AI. It features smooth scrolling navigation, interactive UI components, and a futuristic dark design theme.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🚀 **Hero Section** with animated headline and CTA buttons  
+- ⚡ **Features Section** explaining product capabilities  
+- ⭐ **Testimonials Section** with client reviews  
+- 💸 **Pricing Section** with interactive pricing cards  
+- 📩 **Footer** with smooth scroll navigation  
+- 🎨 Fully responsive UI  
+- ⚡ Built using **Vercel v0** components + custom enhancements  
+- 🌗 Dark futuristic theme
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+| Technology | Purpose |
+|------------|---------|
+| **Next.js 14** | App router architecture |
+| **Tailwind CSS** | Styling and layout |
+| **Vercel v0** | UI component generation |
+| **Lucide Icons** | Modern React icons |
+| **Vercel** | Hosting and deployments |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧩 Sections Overview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Section | Description |
+|--------|-------------|
+| HeroSection | Main headline + call-to-action |
+| FeaturesSection | Highlights key platform advantages |
+| TestimonialsSection | Customer success stories |
+| PricingSection | Pricing plans with animated hover effects |
+| FooterSection | Navigation + social links |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# SaaSify
-Turn ideas into reality with AI-driven speed, precision, and scalability
->>>>>>> f00888a4ac067e11e972663ba68df57d2393fc97
+The project is deployed on **Vercel** for speed, reliability, and zero-config deployment.
+
+🔗 **Live Demo:** https://saa-sify-delta.vercel.app/ 
+📦 **GitHub Repo:** https://github.com/sayan508/SaaSify
+
+---
+
+## 📝 Vercel v0 Usage Notes (Required for submission)
+
+Parts built using **Vercel v0**:
+
+1. Initial UI layout concept generation  
+2. Hero section UI base structure  
+3. Feature cards component design  
+4. Pricing card UI template  
+5. Footer icon layout  
+6. Button and icon variants
+7. Minor styling suggestions for responsiveness  
+8. Typography and spacing presets
+
+Custom code was added later to improve responsiveness, animations, and smooth scrolling.
+
+---
+
+## 📸 Preview
+
+![SaaSify Hero](./public/banner.png)
+
+---
+
+## 🙌 Author
+**Sayan Kundu**  
+## 📜 License
+
+This project is open-source and free to use for learning purposes.
